@@ -134,9 +134,9 @@ Implemented the AI-powered assistant using the Gemini API to translate air quali
 ### Backend & Cloud Integration
 
 Connected frontend components with backend APIs for:
-• air quality data retrieval
-• AQI forecasting
-• location-based queries
+- air quality data retrieval
+- AQI forecasting
+- location-based queries
 Deployed and maintained backend services using **Firebase and Vercel**.
 
 ### Database Design
@@ -219,13 +219,3 @@ Open:
 ```
 http://localhost:3000
 ```
-
----
-
-# Project Purpose
-
-Breezy demonstrates how **AI-enabled interfaces and environmental data systems can support public health awareness**.
-
-By combining real-time pollution monitoring with conversational AI, the platform transforms complex environmental data into **actionable health information for everyday users**.
-
-The project serves as a prototype for **future AI-driven decision-support tools in environmental health and digital healthcare applications**.
