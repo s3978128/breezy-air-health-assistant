@@ -1,0 +1,1502 @@
+[
+  {
+    "question": "Children are more vulnerable to air pollution because:",
+    "options": [
+      "They breathe more air per body weight",
+      "They stay indoors more",
+      "They have stronger lungs",
+      "They eat more food"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of these is not a major source of outdoor air pollution?",
+    "options": [
+      "Factories",
+      "Vehicles",
+      "Trees",
+      "Power plants"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which action helps reduce air pollution?",
+    "options": [
+      "Using public transport",
+      "Burning more fossil fuels",
+      "Idling your car",
+      "Using diesel generators"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which gas is a greenhouse gas and air pollutant?",
+    "options": [
+      "Methane",
+      "Oxygen",
+      "Nitrogen",
+      "Argon"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which condition is often aggravated by air pollution?",
+    "options": [
+      "Asthma",
+      "Diabetes",
+      "Arthritis",
+      "Eczema"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Beside breezy, where can you find air pollution information?",
+    "options": [
+      "BBC News",
+      "Accuweather",
+      "MTV.com",
+      "Facebook marketplace"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Air pollution can contribute to which global issue?",
+    "options": [
+      "Climate change",
+      "Soil erosion",
+      "Ocean salinity",
+      "Tectonic shifts"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which pollutant forms when sunlight reacts with vehicle emissions?",
+    "options": [
+      "Lead",
+      "Ozone",
+      "CO2",
+      "PM2.5"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is Breezy?",
+    "options": [
+      "Gum brand",
+      "Chris Brown",
+      "Your personal air quality assistant",
+      "A breath of cold air"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What device is used to measure air quality?",
+    "options": [
+      "Air quality monitor",
+      "Oximeter",
+      "Barometer",
+      "Thermometer"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which organization issues air quality guidelines globally?",
+    "options": [
+      "WHO",
+      "UNESCO",
+      "IMF",
+      "NASA"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What material in EV batteries poses recycling challenges?",
+    "options": [
+      "Methane",
+      "Carbon",
+      "Iron",
+      "Lithium"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is our mascot name?",
+    "options": [
+      "Breezy",
+      "Ronald McDonald",
+      "Green Giant",
+      "Drake"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "PM2.5 particles are defined as having a diameter less than:",
+    "options": [
+      "2.5 micrometers",
+      "5 micrometers",
+      "10 micrometers",
+      "1 micrometer"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which major sporting event adopted zero-emission transport goals?",
+    "options": [
+      "FIFA 2018",
+      "Tokyo 2020 Olympics",
+      "London 2012",
+      "Beijing 2008"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of these health conditions is not directly caused by air pollution?",
+    "options": [
+      "Asthma",
+      "Stroke",
+      "Diabetes",
+      "Appendicitis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is an Air Quality Index (AQI)?",
+    "options": [
+      "Window glass material ranking",
+      "How delicious the air tastes in different countries",
+      "A scale measuring air cleanliness",
+      "How flammable the air is"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which air pollutant is both a greenhouse gas and harmful to breathe?",
+    "options": [
+      "Oxygen",
+      "Neon",
+      "CO2",
+      "Carbon Monoxide"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "AQI stands for:",
+    "options": [
+      "Air Quality Index",
+      "Air Quantification Indicator",
+      "Atmospheric Quality Inspection",
+      "Air Quota Index"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "AQI stands for:",
+    "options": [
+      "Air Quality Index",
+      "Air Quantification Indicator",
+      "Atmospheric Quality Inspection",
+      "Air Quota Index"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What device is used to measure air quality?",
+    "options": [
+      "Air quality monitor",
+      "Oximeter",
+      "Barometer",
+      "Thermometer"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which color on the AQI scale indicates “very unhealthy” air?",
+    "options": [
+      "Red",
+      "White",
+      "Purple",
+      "Blue"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is a primary source of indoor air pollution?",
+    "options": [
+      "Cigarette smoke",
+      "Sunlight",
+      "Fresh air",
+      "Filtered water"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What AQI score begin indication of hazardous level of air quality?",
+    "options": [
+      "300",
+      "0",
+      "1000",
+      "100"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What air pollutant is associated with acid rain?",
+    "options": [
+      "Francium",
+      "Vinegar",
+      "Uranium",
+      "Sulfur Dioxide"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which country out of these has the highest air pollution level?",
+    "options": [
+      "Vancouver",
+      "Auckland",
+      "Delhi",
+      "Zurich"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What time of the day is air pollution usually the worst?",
+    "options": [
+      "Dinner",
+      "Noon",
+      "Midnight",
+      "Morning rush hour"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What device is used to measure air quality?",
+    "options": [
+      "Air quality monitor",
+      "Oximeter",
+      "Barometer",
+      "Thermometer"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which country will ban the sale of petrol and diesel cars by 2030?",
+    "options": [
+      "Norway",
+      "USA",
+      "Brazil",
+      "Turkmenistan"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is a primary source of indoor air pollution?",
+    "options": [
+      "Cigarette smoke",
+      "Sunlight",
+      "Fresh air",
+      "Filtered water"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "AQI stands for:",
+    "options": [
+      "Air Quality Index",
+      "Air Quantification Indicator",
+      "Atmospheric Quality Inspection",
+      "Air Quota Index"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "AQI stands for:",
+    "options": [
+      "Air Quality Index",
+      "Air Quantification Indicator",
+      "Atmospheric Quality Inspection",
+      "Air Quota Index"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What device is used to measure air quality?",
+    "options": [
+      "Air quality monitor",
+      "Oximeter",
+      "Barometer",
+      "Thermometer"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "How is PM10 different from PM2.5?",
+    "options": [
+      "PM10 only occurs at nighttime",
+      "PM10 is sentient",
+      "PM10 occurs later than PM2.5",
+      "PM10 is larger than PM2.5"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What effect does air pollution have on visibility?",
+    "options": [
+      "Reduces visibility",
+      "Increases visibility",
+      "No effect",
+      "Turn sunlight into rainbows"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which ingredient in cleaning products contributes to indoor air pollution?",
+    "options": [
+      "Water",
+      "Alcohol",
+      "Fragrance",
+      "Vinegar"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which organization issues air quality guidelines globally?",
+    "options": [
+      "WHO",
+      "UNESCO",
+      "IMF",
+      "NASA"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What device is used to measure air quality?",
+    "options": [
+      "Air quality monitor",
+      "Oximeter",
+      "Barometer",
+      "Thermometer"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Why is indoor air quality also a concern?",
+    "options": [
+      "We spent most of our time indoors",
+      "Buildings are airtight",
+      "Furniture can emit toxins",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which holiday often leads to a temporary spike in air pollution in some countries?",
+    "options": [
+      "Cinco de Mayo",
+      "Valentine's Day",
+      "New Year eve",
+      "Halloween"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which sector benefits most from improved air quality?",
+    "options": [
+      "Politics",
+      "Healthcare",
+      "Mining",
+      "Gaming"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is a primary source of indoor air pollution?",
+    "options": [
+      "Cigarette smoke",
+      "Sunlight",
+      "Fresh air",
+      "Filtered water"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who is the most subceptible to air pollution?",
+    "options": [
+      "Elderly",
+      "Adults",
+      "Atheletes",
+      "Teenagers"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Trees can help reduce air pollution by:",
+    "options": [
+      "Absorb pollutants",
+      "No effect",
+      "Increase temperature",
+      "Convert pollutants to H20"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which sector contributes most to air pollution in industrial cities?",
+    "options": [
+      "Healthcare",
+      "Manufacturing",
+      "Agriculture",
+      "Tourism"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is a primary source of indoor air pollution?",
+    "options": [
+      "Cigarette smoke",
+      "Sunlight",
+      "Fresh air",
+      "Filtered water"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What’s one downside of using air fresheners regularly indoors?",
+    "options": [
+      "Smell like toilet",
+      "Pollutant build up",
+      "Mold",
+      "Addiction"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What colour is Breezy",
+    "options": [
+      "Black",
+      "Green",
+      "Blue",
+      "Orange"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What can you do with Breezy?",
+    "options": [
+      "Ask questions and receive explanations",
+      "Take a walk ",
+      "Burn down trees",
+      "Pollute the air"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "PM2.5 particles are defined as having a diameter less than:",
+    "options": [
+      "2.5 micrometers",
+      "5 micrometers",
+      "10 micrometers",
+      "1 micrometer"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who created the AQI system?",
+    "options": [
+      "EPA",
+      "NASA",
+      "WHO",
+      "UNESCO"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What health issue is directly linked to air pollution exposure?",
+    "options": [
+      "DOMS",
+      "Anemia",
+      "Diarrhea",
+      "Asthma"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "How does climate change affect air pollution",
+    "options": [
+      "They breathe more air per body weight",
+      "They stay indoors more",
+      "",
+      "Worsen ozone levels"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which organization issues air quality guidelines globally?",
+    "options": [
+      "WHO",
+      "UNESCO",
+      "IMF",
+      "NASA"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "How does air pollution affect wildlife?",
+    "options": [
+      "No effect",
+      "Harms respiratory systems",
+      "Extra food source",
+      "Provide unique habitat niches"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a major component of smog?",
+    "options": [
+      "Ozone",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Helium"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a major component of smog?",
+    "options": [
+      "Ozone",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Helium"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is smog?",
+    "options": [
+      "Hydrogen and Oxygen",
+      "Steam and acid rain",
+      "Ozone and Methane",
+      "Smoke and fog"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of these best describes “particulate matter”?",
+    "options": [
+      "Gigantic gas clouds",
+      "Dust and droplets",
+      "Specific missions",
+      "Sensitive political topics"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What percentage of global deaths are linked to air pollution (as of recent WHO estimates)?",
+    "options": [
+      "2%",
+      "4%",
+      "50%",
+      "12%"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is a primary source of indoor air pollution?",
+    "options": [
+      "Cigarette smoke",
+      "Sunlight",
+      "Fresh air",
+      "Filtered water"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which animal species can suffer lung damage from polluted air?",
+    "options": [
+      "None",
+      "Fish",
+      "Birds",
+      "Ants"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is an N95 mask designed to filter?",
+    "options": [
+      "Hate",
+      "AM 7.0",
+      "PM 2.5",
+      "UV rays"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "PM2.5 particles are defined as having a diameter less than:",
+    "options": [
+      "2.5 micrometers",
+      "5 micrometers",
+      "10 micrometers",
+      "1 micrometer"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a major component of smog?",
+    "options": [
+      "Ozone",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Helium"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What natural event can temporarily improve air quality?",
+    "options": [
+      "Earthquake",
+      "Drough",
+      "Fog",
+      "Snowfall"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which organization issues air quality guidelines globally?",
+    "options": [
+      "WHO",
+      "UNESCO",
+      "IMF",
+      "NASA"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "How does poor air quality affect mental health?",
+    "options": [
+      "No effect",
+      "Imroves mood",
+      "Causes anxiety and depression",
+      "Boost mental focus"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What device is used to measure air quality?",
+    "options": [
+      "Air quality monitor",
+      "Oximeter",
+      "Barometer",
+      "Thermometer"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which space agency monitors global air pollution from satellites?",
+    "options": [
+      "NASA",
+      "ISRO",
+      "ESA",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which organization issues air quality guidelines globally?",
+    "options": [
+      "WHO",
+      "UNESCO",
+      "IMF",
+      "NASA"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is a long-term economic impact of chronic air pollution?",
+    "options": [
+      "Lower food prices",
+      "Improve healthcare quality",
+      "Reduced productivity",
+      "Higher food prices"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is a primary source of indoor air pollution?",
+    "options": [
+      "Cigarette smoke",
+      "Sunlight",
+      "Fresh air",
+      "Filtered water"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which part of a cigarette produces secondhand smoke pollutants?",
+    "options": [
+      "None",
+      "Filter",
+      "Smoke cloud",
+      "Perfume"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Does rainforests play a role in air pollution?",
+    "options": [
+      "Provide shade",
+      "Looks clean",
+      "No effect",
+      "Absorb CO2"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which organization issues air quality guidelines globally?",
+    "options": [
+      "WHO",
+      "UNESCO",
+      "IMF",
+      "NASA"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "AQI stands for:",
+    "options": [
+      "Air Quality Index",
+      "Air Quantification Indicator",
+      "Atmospheric Quality Inspection",
+      "Air Quota Index"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is a primary source of indoor air pollution?",
+    "options": [
+      "Cigarette smoke",
+      "Sunlight",
+      "Fresh air",
+      "Filtered water"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What global treaty helped phase out pollutants that damaged the ozone layer?",
+    "options": [
+      "Paris Agreement",
+      "Kyoto Protocol",
+      "Montreal Protocol",
+      "Geneva Convention"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "PM2.5 particles are defined as having a diameter less than:",
+    "options": [
+      "2.5 micrometers",
+      "5 micrometers",
+      "10 micrometers",
+      "1 micrometer"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which common mode of transport produces the most emissions per passenger per km?",
+    "options": [
+      "Train",
+      "Car",
+      "Plane",
+      "Bicycle"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which major sporting event once changed scheduling to avoid air pollution health risks?",
+    "options": [
+      "Tour de France",
+      "F1 Grand Prix",
+      "FIFA World Cup",
+      "Beijing Olympics"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following activities surprisingly increases indoor air pollution?",
+    "options": [
+      "Watching TV",
+      "Vacuuming",
+      "Reading",
+      "Dancing"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of these organization sets air quality guidelines",
+    "options": [
+      "WHOM",
+      "WHICH",
+      "WHO",
+      "WHY"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "AQI stands for:",
+    "options": [
+      "Air Quality Index",
+      "Air Quantification Indicator",
+      "Atmospheric Quality Inspection",
+      "Air Quota Index"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which developing country recently launched a nationwide air quality app?",
+    "options": [
+      "Vietnam",
+      "Bangaladesh",
+      "Pakistan",
+      "Nigeria"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is a primary source of indoor air pollution?",
+    "options": [
+      "Cigarette smoke",
+      "Sunlight",
+      "Fresh air",
+      "Filtered water"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "AQI stands for:",
+    "options": [
+      "Air Quality Index",
+      "Air Quantification Indicator",
+      "Atmospheric Quality Inspection",
+      "Air Quota Index"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is one method cities use to discourage polluting vehicles?",
+    "options": [
+      "Free fuel",
+      "Towing",
+      "Road taxes",
+      "No public transports"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which country has the strictest air quality standards?",
+    "options": [
+      "China",
+      "Sweden",
+      "India",
+      "USA"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is a primary source of indoor air pollution?",
+    "options": [
+      "Cigarette smoke",
+      "Sunlight",
+      "Fresh air",
+      "Filtered water"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which farming method reduces pollution from crops?",
+    "options": [
+      "Crop burning",
+      "No till farming",
+      "Till farming",
+      "Insecticide daily"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which body organ besides the lungs is heavily affected by long-term pollution?",
+    "options": [
+      "Humerus",
+      "Appendix",
+      "Brain",
+      "Spleen"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a major component of smog?",
+    "options": [
+      "Ozone",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Helium"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which festival in India contributes to short-term spikes in PM levels?",
+    "options": [
+      "Mukbang",
+      "Diwali",
+      "Holi",
+      "Dadada"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What pollutant is common near wildfires?",
+    "options": [
+      "O2",
+      "CO",
+      "PM 2.5",
+      "CO2"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which organization issues air quality guidelines globally?",
+    "options": [
+      "WHO",
+      "UNESCO",
+      "IMF",
+      "NASA"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is a primary source of indoor air pollution?",
+    "options": [
+      "Cigarette smoke",
+      "Sunlight",
+      "Fresh air",
+      "Filtered water"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "PM2.5 particles are defined as having a diameter less than:",
+    "options": [
+      "2.5 micrometers",
+      "5 micrometers",
+      "10 micrometers",
+      "1 micrometer"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What AQI would you like be in?",
+    "options": [
+      "1000s",
+      "500s",
+      "200s",
+      "10s"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is PM10?",
+    "options": [
+      "Dust particles that are 10 micrometers or smaller",
+      "Dust particles that are 10 nanometers or smaller",
+      "Dust particles that are 10 milimeters or smaller",
+      "The time 10PM written backwards"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is a safety measure against air pollution?",
+    "options": [
+      "Stay hyderated",
+      "Excercise outdoors",
+      "Wear N95 mask",
+      "Consume sufficient vitamin C"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who are more vulnerable to air pollution?",
+    "options": [
+      "University students (especially last year students)",
+      "Working adults",
+      "Small children and elders",
+      "Disabled people"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which activity does not produce air pollutant?",
+    "options": [
+      "Running diesel generators",
+      "Operating public transport",
+      "Travelling in a car to work",
+      "Riding a bicycle to school"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which chemical is not an air pollutant?",
+    "options": [
+      "CO",
+      "O3",
+      "O2",
+      "NO2"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is an air pollutant?",
+    "options": [
+      "CO2",
+      "O2",
+      "O3",
+      "H2"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "When the AQI value is 60, what should you do?",
+    "options": [
+      "Stay indoor at all costs",
+      "Open all doors and windows in your house",
+      "Limit ourdoor activities",
+      "Go outside and excercise"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which type of fuel burns the cleanest?",
+    "options": [
+      "They all burn the same",
+      "Coal",
+      "Diesel",
+      "Wood"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which action can worsen air pollution?",
+    "options": [
+      "Using public transport",
+      "Turn off your engine at a red light",
+      "Idling your car",
+      "Change to eletric transportation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which energy transition helps the most with air quality improvement",
+    "options": [
+      "Fossil fuels to coal",
+      "Fossil fuels to renewable energy",
+      "Wind to hydro",
+      "Sunlight to fossil fuels"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which indoor activity may worsen air pollution?",
+    "options": [
+      "Cleaning the house",
+      "Watching TV",
+      "Singing karaoke loudly",
+      "Burning coals for warmth during winter"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which symptom is a sign of air pollution?",
+    "options": [
+      "Asthma",
+      "Diabetes",
+      "Arthritis",
+      "Eczema"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Using which vtransportation helps reduce air pollution?",
+    "options": [
+      "Using public transport",
+      "Using a motorbike",
+      "Using a taxi",
+      "Using a helicopter"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "PM2.5 particles are defined as having a diameter less than:",
+    "options": [
+      "2.5 micrometers",
+      "2.5555 micrometers",
+      "10 micrometers",
+      "25 micrometer"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is both good and bad to be in our atmosphere?",
+    "options": [
+      "Ozone",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Helium"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Elders are more vulnerable to air pollution because:",
+    "options": [
+      "They breathe more air per body weight",
+      "They stay indoors more",
+      "They have weaker lungs",
+      "They have weaker immune system"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "When the AQI value is 200, what does it mean?",
+    "options": [
+      "The air is in the best condition",
+      "The air pollution level is hazardous",
+      "The air can be a concern for children and elders but mostly harmless",
+      "It is unsure and needs more data"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What does “indoor air quality” mainly depend on?",
+    "options": [
+      "Window shape",
+      "Carpet colour",
+      "Ventilation",
+      "Japanese sliding doors"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which factor contributes to air polltion?",
+    "options": [
+      "PM2.5",
+      "PM10",
+      "O3",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What’s the main reason developing countries often struggle with air pollution enforcement?",
+    "options": [
+      "Lack of interest",
+      "Lack of resources",
+      "Weak regulations",
+      "Low population"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which industy may generate the most air pollutants?",
+    "options": [
+      "Medicine indusrty",
+      "Energy industry",
+      "Engineering industry",
+      "Food industry"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who are less vulnerable to air pollution?",
+    "options": [
+      "Children",
+      "Elders",
+      "Teenagers",
+      "Sick people"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What kind of daily activity that can contribute to air pollution?",
+    "options": [
+      "Washing",
+      "Burning",
+      "Cleaning",
+      "Excercising"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which item is to be used in bad air pollution environment?",
+    "options": [
+      "Sunglasses",
+      "Snorkel mask",
+      "N95 mask",
+      "Gas mask"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which household item increases air pollution?",
+    "options": [
+      "Washing machine",
+      "Vacumn",
+      "Light bulb",
+      "Gas stove"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Why are solar panels a solution to air pulltion?",
+    "options": [
+      "Because they are new technology",
+      "Because they can create energy without burning fossil fuel",
+      "Because they are long lasting",
+      "Because they are made from abundant resource"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "AQI stands for:",
+    "options": [
+      "Air Quality Index",
+      "Air Quantification Indicator",
+      "Atmospheric Quality Inspection",
+      "Air Quota Index"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Why is O3(ozone) an air pollutant?",
+    "options": [
+      "Because they fall from the higher atmosphere",
+      "Because are at the lower level, unlike the natural ozone layer",
+      "Because we already have enough of them, more is not good",
+      "Because they block direct sunlight's effect"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What pollutant is commonly emitted by diesel engines?",
+    "options": [
+      "Nitrogen Dioxide",
+      "Methane",
+      "Carbon Monoxide",
+      "Sulfur Hexafluoride"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "How to stay safe when there is a high level of PM10 dust in the air?",
+    "options": [
+      "Do nothing. They are too small to harm us",
+      "Use a normal face mask",
+      "Use N95 mask",
+      "Do nothing. A bit of dust can't be too serious"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "When does the air quality likely to get worse?",
+    "options": [
+      "Peak hours",
+      "Mornings",
+      "Nights",
+      "Noons"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which type of patient should be more aware of the air quality?",
+    "options": [
+      "Patient with broken bones",
+      "Patient with lungs problem",
+      "Patient with mental problem",
+      "Patient with nutrition problem"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which nature occurance contributes to global air pollution?",
+    "options": [
+      "Tsunami",
+      "Earthquake",
+      "Forest fire",
+      "Tornado"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which major global airport has an indoor air filtration dome?",
+    "options": [
+      "Dubai Airport",
+      "TSN",
+      "LAX",
+      "Singapore Changi Airport"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "If the current AQI is 20, what does that mean?",
+    "options": [
+      "The air polltion is hazardous",
+      "The air quality is very good",
+      "The air pollution is somewhat concerning for children and elders, but mostly harmless",
+      "A slightly concerning air condition for all ages, but is not too dangerous"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which is one of the major sources of air pollution?",
+    "options": [
+      "Fishing activities",
+      "Printing industry",
+      "Heavy construction",
+      "Aviation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Secret question! Choose the correct answer!",
+    "options": [
+      "Wrong",
+      "Correct",
+      "Wrong",
+      "Wrong"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In which weather condition that air pollution is likely to be higher?",
+    "options": [
+      "Rain",
+      "Snow",
+      "Windy",
+      "Foggy"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which is a benefit of wind/solar energy?",
+    "options": [
+      "Cheaper price",
+      "Easy to obtain",
+      "Does not generate air pollutants",
+      "Does not require heavy equipment"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What can we do today to reduce air pollution?",
+    "options": [
+      "Cycle to the local shop",
+      "Eat healthy",
+      "Take part in street cleaning program",
+      "Clean up living space"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which source of heating is the best for air environment?",
+    "options": [
+      "Bonfire",
+      "Coal furnace",
+      "Eletric heater",
+      "Gas stove"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why do urban areas have lower air quality despite having better facilities?",
+    "options": [
+      "Higher use of vehicles that produce exhaust fumes",
+      "More factories that produce dust and release gases",
+      "Higher concentration of population, which leads to higher daily pollutant discharge",
+      "All of above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "A foggy morning can be hazardous to go outside, why?",
+    "options": [
+      "They are a big cloud of small bugs",
+      "The fog may be made from dust, not water",
+      "The fog is too dense to navigate",
+      "The wet environment can be damaging to vehicles"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which kind of weather can improve air quality?",
+    "options": [
+      "Rain",
+      "Sunny",
+      "Cloudy",
+      "Foggy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "How to estimate the current air quality based on AQI point?",
+    "options": [
+      "The higher the better",
+      "The lower the better",
+      "It should be at the middle level to be the best",
+      "Not enough information to conclude"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which air pollutant is the cause of acid rain?",
+    "options": [
+      "CO",
+      "O3",
+      "SO2",
+      "NO2"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What does poor air quality do to our environment?",
+    "options": [
+      "Ice melts faster",
+      "More forest fires",
+      "Damage ozone layer",
+      "More powerful earthquakes"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Where should you stay away from in urban areas to reduce the impact of air pollution on yourself?",
+    "options": [
+      "Construction sites",
+      "Highway",
+      "Outdoor playground",
+      "Bus station"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Air pollution is a big threat to which part of our body?",
+    "options": [
+      "Nose",
+      "Heart",
+      "Eyes",
+      "Lungs"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Is there anything else affected by air pollution other than humans?",
+    "options": [
+      "Animals",
+      "Plants",
+      "Non-organic matters of nature",
+      "All of above"
+    ],
+    "answer": 3
+  }
+]
